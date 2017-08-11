@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/melany/scala-tests/scalacourse/target/scala-2.11/scalacourse_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/MainService$$anonfun$route$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/MainService$$anonfun$route$1.class[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/Boot$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/Boot$.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/Boot$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/Boot$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/MainServiceActor.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/MainServiceActor.class[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/MainService.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/MainService.class[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/Boot.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/Boot.class[0m
+[0m[[0mdebug[0m] [0m	org/scalacourse/MainService$class.class[0m
+[0m[[0mdebug[0m] [0m	  /home/melany/scala-tests/scalacourse/target/scala-2.11/classes/org/scalacourse/MainService$class.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
